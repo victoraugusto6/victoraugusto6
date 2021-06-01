@@ -1,6 +1,8 @@
 
 # Hello World! 😎
 
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=victoraugusto6&repo=victoraugusto6&countColorcountColor&countColor=%237B1E7A)
+
 Olá! Eu sou Victor Augusto, moro em São Paulo - Brasil 🇧🇷.
 <br>
 Sou Desenvolvedor e no momento realizo estágio na <a href='https://soluevo.com.br/' target='_blank'>Soluevo</a>
