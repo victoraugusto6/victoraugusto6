@@ -7,6 +7,8 @@ Sou Desenvolvedor e no momento realizo estágio na <a href='https://soluevo.com.
 <br>
 <br>
 
+Meu Objetivo é atuar na área de Back-end em Desenvolvimento Web, com foco na linguagem Python e no Framework Django.
+
 Adoro distribuições Linux, mas no momento estou apaixonado pelo <a href='https://pop.system76.com/' target='_blank'>Pop!_OS</a>.
 <br>
 Segue grupo do Telegram para suporte ou dicas: <a href='https://t.me/poposbrasil' target='_blank'>https://t.me/poposbrasil</a>
