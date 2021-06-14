@@ -35,7 +35,7 @@ Segue grupo do Telegram para suporte ou dicas: <a href='https://t.me/poposbrasil
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Contato
+### Contato ✉️
 
 <a target='_blank' href='mailto:victor.augusto60@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a target='_blank' href='https://t.me/victor_augusto6'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
