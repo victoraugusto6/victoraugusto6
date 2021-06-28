@@ -31,7 +31,7 @@ dicas: <a href='https://t.me/poposbrasil' target='_blank'>https://t.me/poposbras
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
-### <strong>💻 IDE</strong>
+### <strong>🖥️ IDE</strong>
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
