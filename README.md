@@ -2,7 +2,7 @@
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=victoraugusto6&repo=victoraugusto6&countColorcountColor&countColor=%237B1E7A)
 
-Olá! Eu sou Victor Augusto, moro em São Paulo - Brasil 🇧🇷.
+Olá! Eu sou Victor Augusto, moro em São Paulo - Brasil.
 <br>
 Sou Desenvolvedor Jr. na <a href='https://codevance.com.br/' target='_blank'>Codevance</a>
 <br>
