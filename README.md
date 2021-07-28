@@ -4,7 +4,7 @@
 
 Olá! Eu sou Victor Augusto, moro em São Paulo - Brasil 🇧🇷.
 <br>
-Sou Desenvolvedor e no momento realizo estágio na <a href='https://soluevo.com.br/' target='_blank'>Soluevo</a>
+Sou Desenvolvedor Jr. na Codevance <a href='https://codevance.com.br/' target='_blank'>Codevance</a>
 <br>
 <br>
 
