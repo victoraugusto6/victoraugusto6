@@ -10,12 +10,6 @@ Sou Desenvolvedor Jr. na <a href='https://irricontrol.com.br/' target='_blank'>I
 
 Meu Objetivo é atuar na área de Back-end em Desenvolvimento Web, com foco na linguagem Python e no Framework Django.
 
-Adoro distribuições Linux, mas no momento estou apaixonado pelo <a href='https://pop.system76.com/' target='_blank'>
-Pop!_OS</a>.
-<br>
-Segue grupo do Telegram para suporte ou
-dicas: <a href='https://t.me/poposbrasil' target='_blank'>https://t.me/poposbrasil</a>
-
 ### <strong>⌨ Linguagem</strong> ️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
