@@ -38,4 +38,4 @@ Meu Objetivo é atuar na área de Back-end em Desenvolvimento Web, com foco na l
 
 <a target='_blank' href='mailto:victor.augusto60@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a target='_blank' href='https://t.me/victor_augusto6'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a target='_blank' href='https://www.linkedin.com/in/https://www.linkedin.com/in/victor-augusto-oliveira/'>![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a target='_blank' href='https://www.linkedin.com/in/victor-augusto-oliveira/'>![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
