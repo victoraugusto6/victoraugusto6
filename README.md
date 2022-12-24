@@ -4,7 +4,7 @@
 
 Olá! Eu sou Victor Augusto, moro em São Paulo - Brasil.
 <br>
-Sou Desenvolvedor Jr. na <a href='https://irricontrol.com.br/' target='_blank'>Irricontrol</a>
+Sou Desenvolvedor na <a href='https://irricontrol.com.br/' target='_blank'>Irricontrol</a>
 <br>
 <br>
 
