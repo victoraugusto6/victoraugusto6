@@ -2,13 +2,12 @@
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=victoraugusto6&repo=victoraugusto6&countColorcountColor&countColor=%237B1E7A)
 
-Olá! Eu sou Victor Augusto, moro em São Paulo - Brasil.
+Hello! I'm Victor Augusto, and I live in São Paulo, Brazil.
 <br>
-Sou Desenvolvedor na <a href='https://irricontrol.com.br/' target='_blank'>Irricontrol</a>
-<br>
+I work as a Developer at Irricontrol.
 <br>
 
-Meu Objetivo é atuar na área de Back-end em Desenvolvimento Web, com foco na linguagem Python e no Framework Django.
+My goal is to work in the Back-end area of Web Development, with a focus on the Python language and the Django Framework.
 
 ### <strong>⌨ Linguagem</strong> ️
 
