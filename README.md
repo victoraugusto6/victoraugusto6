@@ -4,7 +4,7 @@
 
 Hello! I'm Victor Augusto, and I live in São Paulo, Brazil.
 <br>
-I work as a Developer at Irricontrol.
+I work as a Developer at Matera.
 <br>
 
 My goal is to work in the Back-end area of Web Development, with a focus on the Python language and the Django Framework.
